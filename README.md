@@ -1,4 +1,4 @@
-![capa git](https://github.com/carolferreiradev/repository-readme/blob/master/carolferreirabanner.png)
+![capa git](https://github.com/carolferreiradev/carolferreiradev/blob/master/carolferreirabanner.png)
 
 <!-- SOBRE MIM -->
 ### Olá <img src="Hi.gif" width="30px">
