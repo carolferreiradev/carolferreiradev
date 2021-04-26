@@ -43,13 +43,9 @@ Acredito que há sempre um nível a mais para alcançar e com foco e a força da
 <!-- REDES SOCIAIS -->
 ### 📧 Contatos
 
-<a target="_blank" href="https:/"www.linkedin.com/in/carol-ferreira-b6676a155/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<a target="_blank" href="https://www.linkedin.com/in/carol-ferreira-b6676a155/">Linkedin</a>
 
-<a target="_blank" href="mailto:developer.anacarolina@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+<a target="_blank" href="mailto:developer.anacarolina@gmail.com">Gmail</a>
 
 <!-- VIEWS -->
 
