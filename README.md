@@ -5,7 +5,7 @@
 
 ---  
 
-Sou Desenvolvedora Web/Mobile, graduada em Análise e Desenvolvimento de Sistemas em 2017. A partir de 2020 dediquei meu foco para o desenvolvimento web e desde então venho me aprimorando na área. Atualmente estudo Angular, TypeScript e React Native.
+Sou Desenvolvedora Web/Mobile, graduada em Análise e Desenvolvimento de Sistemas em 2017. A partir de 2020 dediquei meu foco para o desenvolvimento web e desde então venho me aprimorando na área. Atualmente estudo ReactJS, TypeScript e React Native. Atuo há 5 meses como desenvolvedora ReactJs Júnior em uma empresa de software.
 
 Tenho como hobbies ouvir música, ler, jogar e ver séries de investigação. 
 
