@@ -45,7 +45,7 @@ Acredito que há sempre um nível a mais para alcançar e com foco e a força da
 ### 📧 Contatos
 <div><br>
      <a href = "mailto:developer.anacarolina@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-     <a href="https://www.linkedin.com/in/carol-ferreira-b6676a155/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+     <a href="https://www.linkedin.com/in/carol-ferreira-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
 
 <!-- VIEWS -->
