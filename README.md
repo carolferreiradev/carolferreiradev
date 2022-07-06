@@ -1,20 +1,29 @@
 ![capa git](https://github.com/carolferreiradev/carolferreiradev/blob/master/carolferreirabanner.png)
 
 <!-- SOBRE MIM -->
-### Olá <img src="Hi.gif" width="30px">
+### Olá
 
 ---  
 
-Sou Desenvolvedora Web/Mobile, graduada em Análise e Desenvolvimento de Sistemas em 2017. A partir de 2020 dediquei meu foco para o desenvolvimento web e desde então venho me aprimorando na área. Atualmente estudo ReactJS, TypeScript e React Native. Atuo há quatro meses como Desenvolvedora ReactJs Júnior em uma empresa de software.
+Sou Desenvolvedora Web, graduada em Análise e Desenvolvimento de Sistemas em 2017. A partir de 2020 dediquei meu foco para o desenvolvimento web e desde então venho me aprimorando na área. Atuo desde junho de 2021 como Desenvolvedora Frontend.
 
-Tenho como hobbies ouvir música, ler, jogar e ver séries de investigação. 
+Tenho como hobbies ouvir música, ler, jogar e ver séries de investigação.  
 
-Acredito que há sempre um nível a mais para alcançar e com foco e a força da comunidade isso é possível.  
+---
+
+<!-- ABOUT ME -->
+### Hi
+
+---  
+
+I am a Web Developer, graduated in Systems Analysis and Development in 2017. From 2020 onwards I dedicated my focus to web development and since then I have been improving myself in the area. I have been working since June 2021 as a Frontend Developer.
+
+My hobbies are listening to music, reading, playing games and watching investigation series. 
 
 ---
 
 <!-- STACKS -->
-### 💻 Tecnologias
+### 💻 Technologies
 
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,7 +51,7 @@ Acredito que há sempre um nível a mais para alcançar e com foco e a força da
 
 
 <!-- REDES SOCIAIS -->
-### 📧 Contatos
+### 📧 Contacts
 <div><br>
      <a href = "mailto:developer.anacarolina@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/carol-ferreira-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
