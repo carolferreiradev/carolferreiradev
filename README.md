@@ -5,20 +5,9 @@
 
 ---  
 
-Sou Desenvolvedora Web, graduada em Análise e Desenvolvimento de Sistemas em 2017. A partir de 2020 dediquei meu foco para o desenvolvimento web e desde então venho me aprimorando na área. Atuo desde junho de 2021 como Desenvolvedora Frontend.
+Sou Desenvolvedora com foco no ambiente Web, com formação em Análise e Desenvolvimento de Sistemas (2017) e experiência no processo de desenvolvimento de software web e landing pages (a partir de 2021). Possuo um perfil planejador-analista, buscando atuar com exatidão e precisão para que o trabalho seja executado até o final. Dentre as demandas em que já trabalhei, obtive reconhecimento pelas ótimas práticas de disciplina, cumprimento de prazos e organização.
 
-Tenho como hobbies ouvir música, ler, jogar e ver séries de investigação.  
-
----
-
-<!-- ABOUT ME -->
-### Hi
-
----  
-
-I am a Web Developer, graduated in Systems Analysis and Development in 2017. From 2020 onwards I dedicated my focus to web development and since then I have been improving myself in the area. I have been working since June 2021 as a Frontend Developer.
-
-My hobbies are listening to music, reading, playing games and watching investigation series. 
+Tenho como objetivo estar sempre me aprimorando, estando aberta a aprender e passar aprendizagem.
 
 ---
 
