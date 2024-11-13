@@ -1,17 +1,10 @@
-![capa git](https://github.com/carolferreiradev/carolferreiradev/blob/master/carolferreirabanner.png)
-
-<!-- SOBRE MIM -->
-### Olá
+### Hello
 
 ---  
-
-Sou Desenvolvedora com foco no ambiente Web, com formação em Análise e Desenvolvimento de Sistemas (2017) e experiência no processo de desenvolvimento de software web e landing pages (a partir de 2021). Possuo um perfil planejador-analista, buscando atuar com exatidão e precisão para que o trabalho seja executado até o final. Dentre as demandas em que já trabalhei, obtive reconhecimento pelas ótimas práticas de disciplina, cumprimento de prazos e organização.
-
-Tenho como objetivo estar sempre me aprimorando, estando aberta a aprender e passar aprendizagem.
+I am a Web Development professional, with a background in Systems Analysis and Development and experience in the development of web software and landing pages. I possess a planner-analyst mindset, seeking to act with accuracy and precision so that the work is performed until the end. I thrive in team environments and am constantly seeking opportunities to enhance my professional skills. Throughout my career, I have been recognized for my disciplined approach, proactive suggestions for improvements, and consistent adherence to deadlines and organizational practices.
 
 ---
 
-<!-- STACKS -->
 ### 💻 Technologies
 
 
@@ -39,13 +32,10 @@ Tenho como objetivo estar sempre me aprimorando, estando aberta a aprender e pas
 </center>  
 
 
-<!-- REDES SOCIAIS -->
 ### 📧 Contacts
 <div><br>
      <a href = "mailto:developer.anacarolina@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/carol-ferreira-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
-
-<!-- VIEWS -->
 
 ![](https://komarev.com/ghpvc/?username=anacarolinaferreira&color=ffa1a1&style=flat)
